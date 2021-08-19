@@ -1,0 +1,30 @@
+
+h1{
+    color: rgb(245, 240, 240);
+}
+body{
+    background-color:white;
+}
+
+
+.header{
+    background-image: url("Icons/header.jpg");
+    display: flex;
+    justify-content: space-between;
+}
+.games{
+    background-image: url("Icons/background of game.jpg");
+    display:flex;
+    justify-content: space-evenly;
+}
+.footer{
+    background-image: url("Icons/header.jpg");
+    display:flex;
+    justify-content: flex-end;
+}
+
+h2,p{
+    
+       text-align: center;
+
+}
